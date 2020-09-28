@@ -1,7 +1,7 @@
 name: Awesome Research Group
 url: http://awesome.example.edu
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, README.md, Makefile, screenshot.png, vendor]
 
 # colorize code snippets with the pygments module
 highlighter: pygments
