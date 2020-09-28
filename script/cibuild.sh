@@ -5,4 +5,3 @@ pip install bibble
 bibble bib/pubs.bib bib/publications.tmpl > _includes/pubs.html
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site
